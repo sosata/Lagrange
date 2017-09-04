@@ -1,5 +1,5 @@
 title:  Sohrab Saeb
-tagline:  Homapage
+tagline:
 author:
   name:
   twitter:  sosata
@@ -7,13 +7,13 @@ author:
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  disqus_shortname:
 
 google-ID: 'UA-80213386-1'
 
 menu:
 - {name: 'About', url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
+- {name: 'Publications', url: 'publications.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 social:
