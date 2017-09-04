@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Writing
+title: Publications
 ---
 
-### Publications
-
-#### Journals
+### Journals
 
 S Saeb, EG Lattie, K Körding, DC Mohr, Semantic location from mobile phones: Going beyond GPS. under review.
 
@@ -35,7 +33,7 @@ S Saeb, S Gharibzadeh, F Towhidkhah, A Farajidavar, [Modeling the primary audito
 
 A Farajidavar, S Gharibzadeh, F Towhidkhah, S Saeb, [A cybernetic view on wind-up](http://www.sciencedirect.com/science/article/pii/S0306987706001216). Medical Hypotheses, 67(2), 2006, pp. 304-6.
 
-#### Conference Papers
+### Conference Papers
 
 S Saeb, M Zhang, MM Kwasny, CJ Karr, K Körding, DC Mohr, _The Relationship between Clinical, Momentary, and Sensor-based Assessment of Depression,_ In 9th International Conference on Pervasive Computing Technologies for Healthcare (Pervasive Health), 2015. [PDF](http://klab.smpp.northwestern.edu/wiki/images/c/c9/SaebPerHealth15.pdf)
 
@@ -45,7 +43,7 @@ S Saeb, A Farajidavar, S Gharibzadeh, _A model of wind-up based on short-term an
 
 S Saeb, M Amiri, MJ Yazdanpanah, _Analysis of the dynamical behavior of a feedback auto-associative memory,_ IEEE International Symposium on Neural Networks (ISNN), Nanjing, China, 2007. [PDF](http://klab.smpp.northwestern.edu/wiki/images/8/87/SaebISNN07.pdf)
 
-#### Conference Talks/Posters
+### Conference Talks/Posters
 
 S Saeb, CJ Karr, SM Schueller, DC Mohr, _Passive detection of depression using features of GPS location: two studies,_ International Society for Research on Internet Interventions (ISRII) Scientific Meeting, Seattle, Washington, USA, 7-9 April 2016.
 
