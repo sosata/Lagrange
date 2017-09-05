@@ -5,8 +5,8 @@ author: "Sohrab Saeb"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: cutting.jpg
-  teaser: cutting-teaser.jpg
+  feature: chicago.jpg
+  teaser: chicago-teaser.jpg
   credit:
   creditlink: ""
 ---
