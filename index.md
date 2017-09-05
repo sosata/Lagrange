@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About
+title: 
 ---
-Sohrab Saeb is a computer science researcher at [kernel.co](kernel.co).
+Sohrab Saeb is a computer science researcher at [http://kernel.co](kernel.co).
