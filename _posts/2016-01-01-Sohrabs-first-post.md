@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Sohrab's first post"
-author: "Paul Le"
+author: "Sohrab Saeb"
 categories: journal
 tags: [documentation,sample]
 image:
   feature: chicago.jpg
   teaser: chicago_teaser.jpg
-  credit: Sohrab
+  credit:
   creditlink: ""
 ---
 
