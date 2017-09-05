@@ -11,7 +11,7 @@ disqus:
 google-ID: 'UA-80213386-1'
 
 menu:
-- {name: 'About', url: 'about.html'}
+- {name: 'Blog', url: 'blog.html'}
 - {name: 'Publications', url: 'publications.html'}
 - {name: 'Contact', url: 'contact.html'}
 
