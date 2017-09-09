@@ -11,9 +11,10 @@ disqus:
 google-ID: 'UA-80213386-1'
 
 menu:
-- {name: 'Blog', url: 'blog.html'}
-- {name: 'Publications', url: 'publications.html'}
-- {name: 'Recipes', url: 'recipes.html'}
+- {name: 'ABOUT', url: 'sosata.github.io'}
+- {name: 'RESEARCH', url: 'research.html'}
+- {name: 'PUBLICATIONS', url: 'publications.html'}
+- {name: 'RECIPES', url: 'recipes.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/sosata'}
