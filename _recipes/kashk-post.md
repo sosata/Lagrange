@@ -11,4 +11,4 @@ image:
   creditlink: ""
 ---
 
-I have made this dish a couple of times for people from around the globe, and everyone has loved it!
+I have made this dish a few times for people from around the globe, and everyone has loved it!
