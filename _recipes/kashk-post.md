@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Kashk o Bademjan"
 author: "Sohrab Saeb"
 categories: journal
