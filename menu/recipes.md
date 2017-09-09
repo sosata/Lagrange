@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Recipes
 ---
 
 ## Eggplant Stew (Kashk o Bademjan)
