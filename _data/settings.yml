@@ -13,7 +13,7 @@ google-ID: 'UA-80213386-1'
 menu:
 - {name: 'Blog', url: 'blog.html'}
 - {name: 'Publications', url: 'publications.html'}
-- {name: 'Recipes', url: 'recipes.html'}
+- {name: 'Recipes', url: 'recipes.md'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/sosata'}
